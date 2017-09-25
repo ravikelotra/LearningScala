@@ -4,5 +4,6 @@ object TestScala
   {
       var name:String = "TestingForEach";
       name.foreach(println);
+      println("Hello World");
   }  
 }
